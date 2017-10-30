@@ -1,0 +1,6 @@
+org.strykeforce.thirdcoast.swerve
+org.strykeforce.thirdcoast.talon
+org.strykeforce.thirdcoast.telemetry
+org.strykeforce.thirdcoast.telemetry.grapher
+org.strykeforce.thirdcoast.telemetry.item
+org.strykeforce.thirdcoast.telemetry.util
